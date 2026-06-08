@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevVaGovBenefits",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-va-gov-benefits"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-va-gov-benefits?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}

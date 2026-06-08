@@ -1,0 +1,51 @@
+<svg width="1584" height="396" viewBox="0 0 1584 396" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1584" height="396" fill="#F5F5F5"/>
+<g id="Awesome banner" clip-path="url(#clip0_0_1)">
+<rect width="1584" height="396" fill="url(#paint0_linear_0_1)"/>
+<ellipse id="Ellipse 2" cx="323" cy="64" rx="285" ry="288" fill="url(#paint1_linear_0_1)" fill-opacity="0.1"/>
+<g id="copyright">
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="JetBrains Mono" font-size="32" font-weight="100" letter-spacing="0em"><tspan x="127.562" y="334.52"> - COMMUNITY NODES</tspan></text>
+<text fill="white" fill-opacity="0.9" style="white-space: pre" xml:space="preserve" font-family="JetBrains Mono" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="70" y="334.52">N8N</tspan></text>
+</g>
+<text id="placeholder-description" fill="white" fill-opacity="0.7" style="white-space: pre" xml:space="preserve" font-family="JetBrains Mono" font-size="24" letter-spacing="0em"><tspan x="70" y="197.64">Benefits Intake API allows authorized</tspan><tspan x="70" y="229.64">third-party systems used by Veteran Service</tspan><tspan x="70" y="261.64">Organizations (VSOs), agencies, and Veterans</tspan><tspan x="70" y="293.64">to digitally submit VA benefits claim</tspan><tspan x="70" y="325.64">documents directly to the Ve..</tspan></text>
+<text id="placeholder-name" fill="url(#paint2_linear_0_1)" style="white-space: pre" xml:space="preserve" font-family="JetBrains Mono" font-size="96" font-weight="500" letter-spacing="0em"><tspan x="62" y="136.06">VA GOV BENEFITS</tspan></text>
+<g id="Group 1">
+<rect id="Rectangle 1" x="26" y="168" width="12" height="184" rx="5" fill="url(#paint3_linear_0_1)" fill-opacity="0.9"/>
+</g>
+<g id="Group 1_2">
+<rect id="Rectangle 2" x="26" y="38" width="12" height="119" rx="5" fill="url(#paint4_linear_0_1)" fill-opacity="0.9"/>
+</g>
+<ellipse id="Ellipse 1" cx="148.5" cy="573" rx="215.5" ry="214" fill="url(#paint5_linear_0_1)" fill-opacity="0.4"/>
+<rect id="Rectangle 3" x="1229" y="48" width="300" height="300" rx="25" fill="#FFFBFB" fill-opacity="0.9"/>
+<g id="placeholder-logo"><image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAA5CAMAAAC7xnO3AAAAM1BMVEUWHExfY4SLjqZtcY8lKleoqrzw8fTT1N3///+ZnLFQVXkzOGJCR258f5ri4+nFxtK2uMfltdnbAAABUklEQVR4Xu2Vaa7DIAyEbdYlW+9/2qcXa3CLZfUAzfejMmCFoTMk9Hs8PMRww6SkIEgpHGTI7eYkJeoUN7DRCmPFPKzfJYhkKLJymJn9LsGLDK91ZajYvSlkiOtKh1gpAdNKasLARIVYlPKbXbmdhE2GZZa1Y2LlkNb6OczTns4QsbLBlw8JPMuYIMpQPxyD2FluOK4jF76wimW4E5wYwbUCTyA24xk7wmI44cusi5Y8o3QRWL0Pun/WMml8kye3iicQG9Ss+C31CUYUzVKQnHkxynMntGh3+Kd4MWJ4PVRsbBb25FYKKvbVLN2Vmy49T2mW072kQ9oZBzDs3iXFP6se10sosHwFbkDszNUSlurJFVjDcenLSdjcSwqxx6quuDGqDeS34W5fkYZDxWqAij1OcuSiO5odkh+js2k3ZXuq6qaegzDevnAbKUOmIv0cDw9/hBMcCCee8NEAAAAASUVORK5CYII=" x="1229" y="48" width="300" height="300" preserveAspectRatio="xMidYMid meet"/></g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_1" x1="0" y1="198" x2="1584" y2="198" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3D052C"/>
+<stop offset="1"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_1" x1="323" y1="-224" x2="323" y2="352" gradientUnits="userSpaceOnUse">
+<stop stop-color="#28F6F2" stop-opacity="0.4"/>
+<stop offset="1" stop-color="#17908E" stop-opacity="0.7"/>
+</linearGradient>
+<linearGradient id="paint2_linear_0_1" x1="148.5" y1="38" x2="148.5" y2="140" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#999999"/>
+</linearGradient>
+<linearGradient id="paint3_linear_0_1" x1="38" y1="260" x2="26" y2="260" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D9D9D9"/>
+<stop offset="1" stop-color="#737373"/>
+</linearGradient>
+<linearGradient id="paint4_linear_0_1" x1="38" y1="97.5" x2="26" y2="97.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D9D9D9"/>
+<stop offset="1" stop-color="#737373"/>
+</linearGradient>
+<linearGradient id="paint5_linear_0_1" x1="27.5" y1="434.5" x2="148.5" y2="787" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2E21BC"/>
+<stop offset="1" stop-color="#150F56"/>
+</linearGradient>
+<clipPath id="clip0_0_1">
+<rect width="1584" height="396" fill="white"/>
+</clipPath>
+</defs>
+</svg>
