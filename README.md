@@ -55,7 +55,7 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| VBA Documents | PUT Accepts document upload., POST Get a location for subsequent document upload PUT request, POST Get a bulk status report for a list of previous uploads, POST Validate an individual document against system file requirements, GET Get status for a previous benefits document upload, GET Download zip of "what the server sees" |
+| VBA Documents | Put accepts document upload, Post get a location for subsequent document upload put request, Post get a bulk status report for a list of previous uploads, Post validate an individual document against system file requirements, Get status for a previous benefits document upload, Get download zip of what the server sees |
 
 ---
 
